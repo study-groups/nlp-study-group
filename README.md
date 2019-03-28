@@ -6,14 +6,6 @@ Notes on natural language processing.
 ## Current project
 Currently developing 6-week project -MR, Feb 2019
 
-## Previous project: Bayesian Social Media Meter
-
- Create a daemonized Linux process that scrapes and stores twitter, reddit and quora data in a  PostgreSQL database. Perform Bayesian sentiment analysis on the two data sources. 
-
-```
-P( TwitterSentiment | QuoraSentiment) = P(QS | TS) P(TS) / P(QS)
-```
-
 # Links
 - [PyTorch at Udacity](https://github.com/udacity/deep-learning-v2-pytorch)
 - [awesome-nlp](https://github.com/keon/awesome-nlp) - goog collection of NLP links
