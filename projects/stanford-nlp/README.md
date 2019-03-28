@@ -2,7 +2,7 @@
 
 ## Assignment 2
 
-- [Assignment 2](./assignment2.pdf): Assignment in Stanford NLP CS224n Spring 2017
+- [Assignment 2](https://github.com/study-groups/nlp-study-group/blob/master/projects/stanford-nlp/assignment2/assignment2.pdf): Assignment in Stanford NLP CS224n Spring 2017
   - **Softmax**
   
     In this section you'll implement a linear classifier, in Pytorch, with the following loss function:
