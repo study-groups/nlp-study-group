@@ -1,0 +1,9 @@
+To Do:
+
+1. Create assignment 2 jupyter notebooks for each section
+2. Add README file
+  - Notes on Git + Colaboratory
+3. Connect notebooks to Colaboratory via a link
+4. Create a "sinewave-tf.ipynb" jupyter notebook to troubleshoot tensorflow and other problems
+  - Load tensorflow and RNN example from 
+  https://medium.com/themlblog/time-series-analysis-using-recurrent-neural-networks-in-tensorflow-2a0478b00be7
