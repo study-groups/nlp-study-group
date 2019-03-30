@@ -26,8 +26,6 @@ Currently studying Winter 2017 CS224n Assignment #2.
 # Tools
 - [AllenNLP](https://allennlp.org/) High powered NLP library.
 
-- [Apache Airflow](https://airflow.apache.org/) - pipeline scheduler based on Directed Acyclic Graphs (DAGs)
-
 # Books
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/) by Dan Jurafsky and James H. Martin. Nice 
 looking, covers n-grams, naive bayes classifiers, sentiment, logistic regression, vector semantics, neural nets,
