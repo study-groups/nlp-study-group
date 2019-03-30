@@ -4,7 +4,11 @@ Notes on natural language processing.
 # Group project
 
 ## Current project
-Currently developing 6-week project -MR, Feb 2019
+Currently studying Winter 2017 CS224n Assignment #2.
+ - Colaboratory with tensorboard in progress
+   - [rymc9384/DeepNLP_CS224N](https://github.com/rymc9384/DeepNLP_CS224N)
+   - [2017 Natural Language Processing with Deep Learning Video Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+   - [2019 assigments in PyTorch](http://web.stanford.edu/class/cs224n/index.html#coursework)
 
 # Links
 - [PyTorch at Udemy](https://github.com/udacity/deep-learning-v2-pytorch)
