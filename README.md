@@ -49,7 +49,7 @@ analysis tasks
 
 - [Thumbs Up or Thumbs Down? Semantic Orientation Applied to Unsupervised Classification of Reviews](https://nrc-publications.canada.ca/nparc/eng/view/object/?id=4bb7a0c8-9d9b-4ded-bcf6-fdf64ee28ccc)
 
-- {Global Vectors for Word Representation (GLoVe)](https://github.com/stanfordnlp/GloVe): e provide an implementation of the GloVe model for learning word representations, and describe how to download web-dataset vectors or train your own. See the project page or the paper for more information on glove vectors.
+- [Global Vectors for Word Representation (GLoVe)](https://github.com/stanfordnlp/GloVe): e provide an implementation of the GloVe model for learning word representations, and describe how to download web-dataset vectors or train your own. See the project page or the paper for more information on glove vectors.
 
 ## Current project #2 CS224n Assignment 2 
 Currently studying Winter 2017 CS224n Assignment #2.
