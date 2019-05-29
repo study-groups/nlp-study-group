@@ -59,7 +59,7 @@ Currently studying Winter 2017 CS224n Assignment #2.
    - [2019 assigments in PyTorch](http://web.stanford.edu/class/cs224n/index.html#coursework)
 
 ## Current project #3 RezScore 1 month internship
--[RezScore Signup form](https://docs.google.com/forms/u/1/d/1E8xrtcitK389JmIyvLacHrGZfXsTVu2aeXA3vBimMes/edit?usp=sharing_eip&ts=5c8690f1)
+- [RezScore Signup form](https://docs.google.com/forms/u/1/d/1E8xrtcitK389JmIyvLacHrGZfXsTVu2aeXA3vBimMes/edit?usp=sharing_eip&ts=5c8690f1): Google forms for applying to internship.
 
 - [RezScore Jobs Word2Vec Demo](https://www.youtube.com/watch?time_continue=5&v=VdR-CgeFMV8): William Bellows is an MIT Leaders of Global Operations graduate looking for a new job.  Data genius Severin Hatt walks him through a demo of how to use Word2Vec to help his job hunt.
 
