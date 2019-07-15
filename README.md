@@ -3,12 +3,12 @@ Notes on natural language processing.
 
 # Projects
 
-## Current project #1 Detecting bias in Wikipedia page edit
+## Current project: Detecting bias in Wikipedia page edit
 
 A user enters a URL for a wikipedia page. The history is retrieved and sentiment analysis is conducted on each edit to determine what, if any, bias change is detected. The following refereces are guiding the project:
 
 
-
+## Resources
 - [seq2seq](https://github.com/google/seq2seq): A general-purpose encoder-decoder framework for Tensorflow that can be used for Machine Translation, Text Summarization, Conversational Modeling, Image Captioning, and more.
 
 - [Open NMT](http://opennmt.net/): OpenNMT is an open source ecosystem for neural machine translation and neural sequence learning.
@@ -25,9 +25,11 @@ A user enters a URL for a wikipedia page. The history is retrieved and sentiment
 
 - [Global Vectors for Word Representation (GLoVe)](https://github.com/stanfordnlp/GloVe): e provide an implementation of the GloVe model for learning word representations, and describe how to download web-dataset vectors or train your own. See the project page or the paper for more information on glove vectors.
 
-## Current project #2 CS224n Assignment 2 
-Currently studying Winter 2017 CS224n Assignment #2.
- - Colaboratory with tensorboard in progress
+## Past projects 
+
+### CS224n Assignment 2 
+Winter 2017 CS224n Assignment #2.
+ - Colaboratory with tensorboard
    - [rymc9384/DeepNLP_CS224N](https://github.com/rymc9384/DeepNLP_CS224N)
    - [2017 Natural Language Processing with Deep Learning Video Playlist](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
    - [2019 assigments in PyTorch](http://web.stanford.edu/class/cs224n/index.html#coursework)
