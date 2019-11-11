@@ -115,3 +115,23 @@ extraction. hidden markov models.
 - https://en.wikipedia.org/wiki/Bayesian_network
 - https://en.wikipedia.org/wiki/Computational_linguistics
 - https://en.wikipedia.org/wiki/Fuzzy_clustering
+
+# Advanced topics
+-[Mathematical foundations for a compositional
+distributional model of meaning.](https://arxiv.org/pdf/1003.4394.pdf) by Bob Coecke
+, Mehrnoosh Sadrzadeh
+, Stephen Clark
+We propose a mathematical framework for a unification of the distributional theory of meaning in terms of vector space models, and a compositional theory for grammatical types, for which we rely on the algebra of
+Pregroups, introduced by Lambek. This mathematical framework enables us
+to compute the meaning of a well-typed sentence from the meanings of its
+constituents. Concretely, the type reductions of Pregroups are ‘lifted’ to morphisms in a category, a procedure that transforms meanings of constituents
+into a meaning of the (well-typed) whole. Importantly, meanings of whole
+sentences live in a single space, independent of the grammatical structure
+of the sentence. Hence the inner-product can be used to compare meanings
+of arbitrary sentences, as it is for comparing the meanings of words in the
+distributional model. The mathematical structure we employ admits a purely
+diagrammatic calculus which exposes how the information flows between the
+words in a sentence in order to make up the meaning of the whole sentence. A
+variation of our ‘categorical model’ which involves constraining the scalars
+of the vector spaces to the semiring of Booleans results in a Montague-style
+Boolean-valued semantics.
