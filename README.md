@@ -3,7 +3,12 @@ Notes on natural language processing.
 
 # Projects
 
-## Current project: Detecting bias in Wikipedia page edit
+## Current projects
+
+### Word2Vec example in Colab
+- [word2Vec with Gensim](https://colab.research.google.com/drive/1HcnJeRj1Z-1jfzBkvVJNRKth0BHa5Hfe)
+
+### Detecting bias in Wikipedia page edit
 
 A user enters a URL for a wikipedia page. The history is retrieved and sentiment analysis is conducted on each edit to determine what, if any, bias change is detected. The following refereces are guiding the project:
 
